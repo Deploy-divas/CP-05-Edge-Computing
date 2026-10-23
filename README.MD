@@ -6,9 +6,9 @@ Este projeto tem como objetivo monitorar as condições ambientais (luminosidade
 
 ## 👥 Integrantes do Grupo
 
-Amanda Silva | RM: 572585
-Beatriz Mantovani | RM: 573824
-Laura Sampaio | RM: 570802
+Amanda Silva RM: 572585 |
+Beatriz Mantovani RM: 573824 |
+Laura Sampaio RM: 570802
 
 ## 🛠️ Tecnologias e Componentes Utilizados
 
